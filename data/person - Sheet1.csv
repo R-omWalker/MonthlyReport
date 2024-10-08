@@ -1,0 +1,2 @@
+name(str),gender(enum?str?),birthday(date),icon
+Kotaro,man,20130101,/img_icon/piyo
